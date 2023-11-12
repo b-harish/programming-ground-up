@@ -9,6 +9,12 @@ Below are the tools I used while studying this book.
 * Assembler (`sudo apt-get install binutils`)
 	* verify by executing `as --version` in the shell.
 
+## Folder Structure
+* Every chapter files are saved inside directory named `ch{chapter_number}`
+* Inside every directory, along with source codes additional directories are present.
+  	* `kyc` directory contains files related to the questions under **Know Your Concepts** section at the end of every chapter.
+  	* `utc` directory contains files related to the questions under **Use The Concepts** section at the end of every chapter.
+
 ## Chapter 1 - Introduction
 ## Chapter 2 - Computer Architecture
 ## Chapter 3 - Your First Programs
